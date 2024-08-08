@@ -1,2 +1,6 @@
-# janmichaelcabrera.github.io
-Some probably terrible ideas in math and science
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
