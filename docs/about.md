@@ -18,8 +18,16 @@ I'll include a list of books I've read below recently that may help get to know 
 - Gödel, Escher, Bach by Douglas Hofstadter
 
 ## (Re-) Reading List
+- Information Theory, Inference and Learning Algorithms by David MacKay (re-read)
+- Probability Theory: The Logic of Science by E.T. Jaynes (re-read)
+- Bayesian Networks by Judea Pearl (re-read)
+- Artificial Intelligence: A Modern Approach by Stuart Russel
 
-## Misc
+## Concepts I'd Like to Learn / Review
+- Statistical Mechanics
+- General Relativity: The Theoretical Minimum
+- Quantum Mechanics
+- Fundamentals in Logic and Computer Science
+- Mathematics Fundamentals
 
-
-There are a lot more science fiction, fantasy, and those popular science books that I'll leave out for brevity.
+There are a lot more science fiction, fantasy, those popular science books, textbooks related to mechanical and chemical engineering, and tons of academic articles that I'll leave out for brevity.
